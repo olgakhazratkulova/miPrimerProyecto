@@ -1,0 +1,3 @@
+- aprender a programar
+- saber manejar java script
+- diseñar pagina web
